@@ -1,0 +1,16 @@
+---
+name: mdformat-myst
+description: Mdformat plugin that changes target specification to Github Flavored Markdown.
+homepage: https://github.com/hukkin/mdformat-gfm
+licenses:
+  - MIT
+languages:
+  - Markdown
+categories:
+  - Formatter
+
+source:
+  id: pkg:pypi/mdformat-gfm@0.3.6
+
+bin:
+  mdformat: pypi:mdformat
