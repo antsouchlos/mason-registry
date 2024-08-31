@@ -1,5 +1,5 @@
 ---
-name: mdformat-myst
+name: mdformat-gfm
 description: Mdformat plugin that changes target specification to Github Flavored Markdown.
 homepage: https://github.com/hukkin/mdformat-gfm
 licenses:
