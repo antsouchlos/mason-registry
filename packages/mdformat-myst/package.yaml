@@ -1,7 +1,7 @@
 ---
 name: mdformat-myst
-description: CommonMark compliant Markdown formatter.
-homepage: https://github.com/executablebooks/mdformat
+description: Mdformat plugin that changes target specification to MyST.
+homepage: https://github.com/executablebooks/mdformat-myst
 licenses:
   - MIT
 languages:
