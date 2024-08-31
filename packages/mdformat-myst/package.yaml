@@ -13,4 +13,4 @@ source:
   id: pkg:pypi/mdformat_myst@0.1.5
 
 bin:
-  mdformat: pypi:mdformat_myst
+  mdformat: pypi:mdformat
