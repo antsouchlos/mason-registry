@@ -1,0 +1,16 @@
+---
+name: mdformat-myst
+description: CommonMark compliant Markdown formatter.
+homepage: https://github.com/executablebooks/mdformat
+licenses:
+  - MIT
+languages:
+  - Markdown
+categories:
+  - Formatter
+
+source:
+  id: pkg:pypi/mdformat_myst@0.1.5
+
+bin:
+  mdformat: pypi:mdformat_myst
